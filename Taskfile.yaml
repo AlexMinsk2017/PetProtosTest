@@ -3,6 +3,9 @@
 version: "3"
 
 tasks:
+  default: # Если не указать конкретную команду, будут выполнены дефолтные
+    cmds:
+      - task: generate
   generate:
     aliases:
       - gen
