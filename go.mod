@@ -8,6 +8,7 @@ require (
 )
 
 require (
+	github.com/GolangLessons/protos v0.1.2 // indirect
 	github.com/golang-jwt/jwt/v5 v5.0.0 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	golang.org/x/crypto v0.13.0 // indirect
